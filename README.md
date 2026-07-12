@@ -35,6 +35,15 @@ Deeply curious about <b>Machine Learning</b>, <b>Deep Learning</b> and <b>NLP</b
 I love building AI-powered applications and constantly exploring new technologies to push what's possible. ⚡
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_AI_Engineer-7AA2F7?style=flat-square&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🧠_Machine_Learning-BB9AF7?style=flat-square&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🔮_Deep_Learning-F7768E?style=flat-square&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/💬_NLP-9ECE6A?style=flat-square&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🚀_LLMs-E0AF68?style=flat-square&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/📚_RAG-73DACA?style=flat-square&labelColor=1a1b27"/>
+</p>
+
 ---
 
 ## 💻 Tech Stack
@@ -124,8 +133,7 @@ I love building AI-powered applications and constantly exploring new technologie
 
 ### 💬 Quote
 
-<h2>❝ <em>The best way to predict the future is to invent it.</em> ❞</h2>
-<h4>— Alan Kay</h4>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:BB9AF7,50:7AA2F7,100:73DACA&height=130&section=header&text=%E2%9D%9D%20The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.%20%E2%9D%9E&fontSize=20&fontColor=1a1b27&fontAlignY=42&desc=%E2%80%94%20Alan%20Kay&descAlignY=68&descSize=15&descColor=1a1b27" width="90%"/>
 
 </div>
 
