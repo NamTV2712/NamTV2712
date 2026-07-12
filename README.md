@@ -81,6 +81,7 @@ I love building AI-powered applications and constantly exploring new technologie
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
@@ -91,22 +92,22 @@ I love building AI-powered applications and constantly exploring new technologie
      which returns fresh cards more reliably. For 100% guaranteed uptime, self-deploy your own
      instance later and swap the domain below. -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=NamTV2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=NamTV2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="200"/>
 </p>
 
 ---
 
 ## 🏆 Trophies
 
-<!-- After you self-deploy ryo-ma/github-profile-trophy to your own Vercel account,
-     replace "github-profile-trophy.vercel.app" below with your own domain -->
+<!-- Public "github-profile-trophy.vercel.app" is congested; using an official community
+     load-balancer mirror listed on the project's own README for reliability. -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NamTV2712&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=NamTV2712&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -121,9 +122,10 @@ I love building AI-powered applications and constantly exploring new technologie
 
 <div align="center">
 
-### 💬 Random Dev Quote
+### 💬 Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="90%"/>
+<h3><em>"The best way to predict the future is to invent it."</em></h3>
+<p><strong>— Alan Kay</strong></p>
 
 </div>
 
