@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Thai%20Viet%20Nam&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+Enthusiast;NLP+%7C+LLMs+%7C+RAG+Explorer;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+Enthusiast;NLP+%7C+LLMs+%7C+RAG+Explorer;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -30,18 +30,10 @@
 ### 🧠 About Me
 
 <p align="center">
-I'm an <b>AI Engineer</b> passionate about turning ideas into intelligent, real-world systems.<br/>
-Deeply curious about <b>Machine Learning</b>, <b>Deep Learning</b> and <b>NLP</b>, with a strong focus on <b>Large Language Models</b> and <b>Retrieval-Augmented Generation</b>.<br/>
-I love building AI-powered applications and constantly exploring new technologies to push what's possible. ⚡
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Engineer-7AA2F7?style=flat-square&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-BB9AF7?style=flat-square&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-F7768E?style=flat-square&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/NLP-9ECE6A?style=flat-square&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/LLMs-E0AF68?style=flat-square&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/RAG-73DACA?style=flat-square&labelColor=1a1b27"/>
+I'm an <b>AI Engineer</b> who enjoys turning raw ideas into intelligent systems that work in the real world.<br/>
+My core interests lie at the intersection of <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Natural Language Processing</b> — with a particular focus on <b>Large Language Models</b> and <b>Retrieval-Augmented Generation</b>.<br/>
+I care about building things end-to-end: clean data pipelines, solid model architectures, and applications people can actually use.<br/>
+Always experimenting, always learning — the field moves fast, and I like keeping pace with it. ⚡
 </p>
 
 ---
@@ -101,12 +93,12 @@ I love building AI-powered applications and constantly exploring new technologie
      which returns fresh cards more reliably. For 100% guaranteed uptime, self-deploy your own
      instance later and swap the domain below. -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="230"/>
-  <img src="https://streak-stats.demolab.com/?user=NamTV2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="230"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="270"/>
+  <img src="https://streak-stats.demolab.com/?user=NamTV2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="270"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=420" alt="Top Languages" height="230"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=500" alt="Top Languages" height="270"/>
 </p>
 
 ---
@@ -116,7 +108,7 @@ I love building AI-powered applications and constantly exploring new technologie
 <!-- Public "github-profile-trophy.vercel.app" is congested; using an independent, dedicated
      mirror (not on shared Vercel infra) for reliability. -->
 <p align="center">
-  <img src="https://github-trophies.devomb.com/?username=NamTV2712&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.devomb.com/?username=NamTV2712&theme=tokyonight&no-frame=true&row=3&column=3&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -133,7 +125,7 @@ I love building AI-powered applications and constantly exploring new technologie
 
 ### 💬 Quote
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&section=header&text=%E2%9D%9D%20The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.%20%E2%9D%9E&fontSize=20&fontColor=BB9AF7&fontAlignY=40&desc=%E2%80%94%20Alan%20Kay&descAlignY=68&descSize=15&descColor=73DACA" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=%E2%9D%9D%20The%20Analytical%20Engine%20weaves%20algebraical%20patterns%2C%20just%20as%20the%20Jacquard%20loom%20weaves%20flowers%20and%20leaves.%20%E2%9D%9E&fontSize=17&fontColor=7AA2F7&fontAlignY=38&desc=%E2%80%94%20Ada%20Lovelace%2C%20the%20world%27s%20first%20computer%20programmer&descAlignY=68&descSize=14&descColor=F7768E" width="95%"/>
 
 </div>
 
