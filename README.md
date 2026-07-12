@@ -1,14 +1,5 @@
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2600&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Thai+Viet+Nam+%F0%9F%91%8B;AI+Engineer+Intern;RAG+%7C+LLMs+%7C+Machine+Learning;Building+Practical+AI+Systems"
-  alt="Typing SVG"
-/>
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Thai%20Viet%20Nam&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
@@ -72,7 +63,7 @@ I love building AI-powered applications and constantly exploring new technologie
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-7AA2F7?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-7AA2F7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep_Learning-BB9AF7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NLP-9ECE6A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLMs-F7768E?style=for-the-badge"/>
@@ -85,8 +76,8 @@ I love building AI-powered applications and constantly exploring new technologie
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamTV2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=NamTV2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
