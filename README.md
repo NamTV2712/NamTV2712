@@ -1,79 +1,130 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nam+%F0%9F%91%8B;AI+Engineer+Intern;Building+RAG+Systems+%26+LLM+Apps;FPT+University+-+AI+Student" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2600&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Thai+Viet+Nam+%F0%9F%91%8B;AI+Engineer+Intern;RAG+%7C+LLMs+%7C+Machine+Learning;Building+Practical+AI+Systems"
+  alt="Typing SVG"
+/>
 
 </div>
 
-<br>
+<div align="center">
 
-## 🧠 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Thai%20Viet%20Nam&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-I'm an AI student focused on **Deep Learning, NLP, and LLM applications**.
-I enjoy turning research ideas into working products — especially **RAG pipelines**, **model fine-tuning (LoRA)**, and **end-to-end AI systems** that actually ship.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+Enthusiast;NLP+%7C+LLMs+%7C+RAG+Explorer;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 🔭 Currently building **[Enterprise Document QA](https://github.com/NamTV2712/Enterprise-Document-QA)** — a hybrid RAG system for financial document Q&A
-- 🌱 Learning: advanced retrieval techniques & agentic LLM workflows
-- 🎯 Looking for an **AI Engineer Internship**
-- ⚡ Fun fact: my hybrid retrieval pipeline (BM25 + Qdrant + RRF) lifted context precision from 0.38 → 0.48
-
-<br>
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="mailto:vnam27122005@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-    <img src="https://img.shields.io/badge/-LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/NamTV2712">
-    <img src="https://img.shields.io/badge/-GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-## 🧰 Tech Stack
+</div>
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&titleAlign=center&align=center&fontSize=18&lineHeight=13&lineCount=4&theme=tokyonight&width=760&gap=8&borderRadius=8&line1=Python,python,auto%3BR,r,auto%3BPyTorch,pytorch,auto%3BTensorFlow,tensorflow,auto%3BScikit-learn,scikitlearn,auto%3B&line2=NumPy,numpy,auto%3BPandas,pandas,auto%3BFastAPI,fastapi,auto%3BPydantic,pydantic,auto%3BGit,git,auto%3B&line3=GitHub,github,auto%3BDocker,docker,auto%3BJupyter,jupyter,auto%3BGoogle%20Colab,googlecolab,auto%3BKaggle,kaggle,auto%3B&line4=MySQL,mysql,auto%3BPostgreSQL,postgresql,auto%3BMongoDB,mongodb,auto%3BQdrant,qdrant,auto%3BHugging%20Face,huggingface,auto%3B" alt="Tech Stack" />
+  <img src="https://komarev.com/ghpvc/?username=NamTV2712&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/NamTV2712?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b27" alt="followers"/>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://www.facebook.com/thai.viet.nam.888521">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/REPLACE_WITH_MY_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vnam27122005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-## 📌 Pinned Projects
+---
 
-| Project | Highlights |
-|---|---|
-| 🔍 **[Enterprise Document QA](https://github.com/NamTV2712/Enterprise-Document-QA)** | Hybrid RAG (BM25 + Qdrant + RRF + cross-encoder), semantic caching (~0.108s), LLM-as-a-Judge eval |
-| 🛒 **[Cart-to-Purchase Conversion Prediction](https://github.com/NamTV2712/Cart-to-Purchase-Conversion-Prediction)** | XGBoost/Random Forest, accuracy 0.64→0.90, served via FastAPI + Gradio |
+### 🧠 About Me
 
-**Certifications:** IBM Generative AI Engineering Professional Certificate · PyTorch for Deep Learning (DeepLearning.AI) — both 2026
+<p align="center">
+I'm an <b>AI Engineer</b> passionate about turning ideas into intelligent, real-world systems.<br/>
+Deeply curious about <b>Machine Learning</b>, <b>Deep Learning</b> and <b>NLP</b>, with a strong focus on <b>Large Language Models</b> and <b>Retrieval-Augmented Generation</b>.<br/>
+I love building AI-powered applications and constantly exploring new technologies to push what's possible. ⚡
+</p>
 
-<br>
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-7AA2F7?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-BB9AF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-9ECE6A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-F7768E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-E0AF68?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LoRA-73DACA?style=for-the-badge"/>
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamTV2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NamTV2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
 </p>
 
-<br>
+---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NamTV2712&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NamTV2712&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
 </p>
 
-<br>
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamTV2712&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NamTV2712&color=7AA2F7&style=flat&label=Profile+Views" alt="Profile Views" />
+
+### 💬 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%"/>
+
+<sub>⭐️ Thanks for visiting my profile — feel free to connect!</sub>
+
 </div>
