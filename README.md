@@ -96,14 +96,6 @@ Still early in the journey, but serious about it — one dataset, one model, one
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,go,nodejs,react,nextjs,ts,tailwind,html,css,postgres,redis,docker&perline=13" alt="Tech Arsenal"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <!-- Public "github-readme-stats.vercel.app" is congested; using the community "fast" mirror
