@@ -30,8 +30,8 @@
 ### 🧠 About Me
 
 <p align="center">
-I'm an <b>AI Engineer</b> who enjoys turning raw ideas into intelligent systems that work in the real world.<br/>
-My core interests lie at the intersection of <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Natural Language Processing</b> — with a particular focus on <b>Large Language Models</b> and <b>Retrieval-Augmented Generation</b>.<br/>
+I'm an $\color{cyan}\textsf{AI Engineer}$ who enjoys turning raw ideas into intelligent systems that work in the real world.<br/>
+My core interests lie at the intersection of $\color{violet}\textsf{Machine Learning}$, $\color{magenta}\textsf{Deep Learning}$, and $\color{green}\textsf{Natural Language Processing}$ — with a particular focus on $\color{orange}\textsf{Large Language Models}$ and $\color{blue}\textsf{Retrieval-Augmented Generation}$.<br/>
 I care about building things end-to-end: clean data pipelines, solid model architectures, and applications people can actually use.<br/>
 Always experimenting, always learning — the field moves fast, and I like keeping pace with it. ⚡
 </p>
@@ -108,7 +108,7 @@ Always experimenting, always learning — the field moves fast, and I like keepi
 <!-- Public "github-profile-trophy.vercel.app" is congested; using an independent, dedicated
      mirror (not on shared Vercel infra) for reliability. -->
 <p align="center">
-  <img src="https://github-trophies.devomb.com/?username=NamTV2712&theme=tokyonight&no-frame=true&row=3&column=3&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.devomb.com/?username=NamTV2712&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
