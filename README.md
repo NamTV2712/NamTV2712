@@ -69,12 +69,27 @@ I love building AI-powered applications and constantly exploring new technologie
   <img src="https://img.shields.io/badge/LLMs-F7768E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-E0AF68?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LoRA-73DACA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
+<!-- After you self-deploy anuraghazra/github-readme-stats to your own Vercel account,
+     replace "github-readme-stats.vercel.app" below (2 occurrences) with your own domain,
+     e.g. "github-readme-stats-yourname.vercel.app" -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://streak-stats.demolab.com/?user=NamTV2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
@@ -88,6 +103,8 @@ I love building AI-powered applications and constantly exploring new technologie
 
 ## 🏆 Trophies
 
+<!-- After you self-deploy ryo-ma/github-profile-trophy to your own Vercel account,
+     replace "github-profile-trophy.vercel.app" below with your own domain -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NamTV2712&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
 </p>
