@@ -87,16 +87,16 @@ I love building AI-powered applications and constantly exploring new technologie
 
 ## 📊 GitHub Stats
 
-<!-- After you self-deploy anuraghazra/github-readme-stats to your own Vercel account,
-     replace "github-readme-stats.vercel.app" below (2 occurrences) with your own domain,
-     e.g. "github-readme-stats-yourname.vercel.app" -->
+<!-- Public "github-readme-stats.vercel.app" is congested; using the community "fast" mirror
+     which returns fresh cards more reliably. For 100% guaranteed uptime, self-deploy your own
+     instance later and swap the domain below. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://streak-stats.demolab.com/?user=NamTV2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
 </p>
 
 ---
@@ -123,7 +123,7 @@ I love building AI-powered applications and constantly exploring new technologie
 
 ### 💬 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="90%"/>
 
 </div>
 
