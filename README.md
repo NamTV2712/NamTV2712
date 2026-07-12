@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Thai%20Viet%20Nam&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Thai%20Viet%20Nam&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%26%20Data%20Scientist&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+Enthusiast;NLP+%7C+LLMs+%7C+RAG+Explorer;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+Enthusiast;NLP+%7C+LLMs+%7C+RAG+Explorer;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -30,10 +30,10 @@
 ### 🧠 About Me
 
 <p align="center">
-I'm an $\color{cyan}\textsf{AI Engineer}$ who enjoys turning raw ideas into intelligent systems that work in the real world.<br/>
-My core interests lie at the intersection of $\color{violet}\textsf{Machine Learning}$, $\color{magenta}\textsf{Deep Learning}$, and $\color{green}\textsf{Natural Language Processing}$ — with a particular focus on $\color{orange}\textsf{Large Language Models}$ and $\color{blue}\textsf{Retrieval-Augmented Generation}$.<br/>
-I care about building things end-to-end: clean data pipelines, solid model architectures, and applications people can actually use.<br/>
-Always experimenting, always learning — the field moves fast, and I like keeping pace with it. ⚡
+Student & self-taught builder, working my way toward a career as an $\color{cyan}\textsf{AI Engineer}$ and $\color{violet}\textsf{Data Scientist}$.<br/>
+I learn by building — hands-on with $\color{magenta}\textsf{Machine Learning}$, $\color{green}\textsf{Deep Learning}$, and $\color{orange}\textsf{NLP}$, with a growing focus on $\color{blue}\textsf{Large Language Models}$ and $\color{teal}\textsf{Retrieval-Augmented Generation}$.<br/>
+Most of my time goes into personal projects, Kaggle notebooks, and small end-to-end pipelines that turn theory into something that actually runs.<br/>
+Still early in the journey, but serious about it — one dataset, one model, one shipped idea at a time. ⚡
 </p>
 
 ---
