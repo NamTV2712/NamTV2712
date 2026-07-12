@@ -9,7 +9,7 @@
 <!-- Pixel-art hero, from the "GIFs-For-Readme" collection by Anmol-Baranwal
      (https://github.com/Anmol-Baranwal/GIFs-For-Readme) — a widely used public
      asset set, so this link is stable. -->
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="80%"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%"/>
 
 <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">
   <img src="https://forthebadge.com/images/badges/made-with-markdown.svg"/>
