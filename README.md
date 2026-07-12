@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Thai%20Viet%20Nam&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+Enthusiast;NLP+%7C+LLMs+%7C+RAG+Explorer;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+Enthusiast;NLP+%7C+LLMs+%7C+RAG+Explorer;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -92,22 +92,22 @@ I love building AI-powered applications and constantly exploring new technologie
      which returns fresh cards more reliably. For 100% guaranteed uptime, self-deploy your own
      instance later and swap the domain below. -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://streak-stats.demolab.com/?user=NamTV2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="230"/>
+  <img src="https://streak-stats.demolab.com/?user=NamTV2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="230"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=420" alt="Top Languages" height="230"/>
 </p>
 
 ---
 
 ## 🏆 Trophies
 
-<!-- Public "github-profile-trophy.vercel.app" is congested; using an official community
-     load-balancer mirror listed on the project's own README for reliability. -->
+<!-- Public "github-profile-trophy.vercel.app" is congested; using an independent, dedicated
+     mirror (not on shared Vercel infra) for reliability. -->
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=NamTV2712&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.devomb.com/?username=NamTV2712&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -124,8 +124,8 @@ I love building AI-powered applications and constantly exploring new technologie
 
 ### 💬 Quote
 
-<h3><em>"The best way to predict the future is to invent it."</em></h3>
-<p><strong>— Alan Kay</strong></p>
+<h2>❝ <em>The best way to predict the future is to invent it.</em> ❞</h2>
+<h4>— Alan Kay</h4>
 
 </div>
 
