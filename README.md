@@ -44,13 +44,14 @@
 ### 🧠 About Me
 
 <p align="center">
-Student & self-taught builder, working my way toward a career as an $\color{cyan}\textsf{AI Engineer}$ and $\color{violet}\textsf{Data Scientist}$.<br/>
-I learn by building — hands-on with $\color{magenta}\textsf{Machine Learning}$, $\color{green}\textsf{Deep Learning}$, and $\color{orange}\textsf{NLP}$, with a growing focus on $\color{blue}\textsf{Large Language Models}$ and $\color{teal}\textsf{Retrieval-Augmented Generation}$.<br/>
-Most of my time goes into personal projects, Kaggle notebooks, and small end-to-end pipelines that turn theory into something that actually runs.<br/>
-Still early in the journey, but serious about it — one dataset, one model, one shipped idea at a time. 
+AI student and hands-on builder pursuing a career in <strong>AI Engineering</strong> and <strong>Data Science</strong>.<br/>
+Focused on <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>NLP</strong>, with a growing specialization in <strong>Large Language Models</strong> and <strong>Retrieval-Augmented Generation</strong>.<br/>
+I develop practical projects and end-to-end AI pipelines covering data preparation, model development, evaluation, API integration, and deployment.<br/>
+Committed to continuous learning and building reliable AI solutions for real-world problems.
 </p>
 
 ---
+
 
 ## 💻 Tech Stack
 
