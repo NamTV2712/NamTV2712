@@ -42,12 +42,11 @@
 ---
 ### 🧠 About Me
 
-Artificial Intelligence student focused on designing and building practical AI systems.
+I design and build practical AI systems using **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.
 
-I work across **Machine Learning**, **Deep Learning**, and **Natural Language Processing**, with a growing focus on **Large Language Models**, **Retrieval-Augmented Generation**, and end-to-end AI pipelines.
+My interests include **Large Language Models**, **Retrieval-Augmented Generation**, and end-to-end AI development—from data and model experimentation to APIs and deployment.
 
-My projects involve the complete development lifecycle—from preparing data and training models to evaluation, API integration, and deployment. I am particularly interested in turning AI concepts into reliable applications that solve real-world problems.
-
+I value continuous learning, thoughtful engineering, and solutions that create real-world impact.
 
 ---
 
