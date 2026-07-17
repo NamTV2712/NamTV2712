@@ -169,9 +169,9 @@ Committed to continuous learning and building reliable AI solutions for real-wor
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&amp;height=240&amp;text=%E2%9D%9D%20Building%20ever%20more%20capable%20and%20general%20AI%2C-nl-safely%20and%20responsibly%2C%20demands%20that%20we%20solve-nl-some%20of%20the%20hardest%20scientific%20and%20engineering-nl-challenges%20of%20our%20time.%20%E2%9D%9E&amp;fontSize=19&amp;fontColor=7AA2F7&amp;fontAlignY=24&amp;desc=%E2%80%94%20Demis%20Hassabis&amp;descAlignY=88&amp;descSize=18&amp;descColor=F7768E"
+    src="https://capsule-render.vercel.app/api?type=transparent&amp;height=160&amp;text=%E2%9D%9D%20AI%20is%20the%20new%20electricity.%20%E2%9D%9E&amp;fontSize=30&amp;fontColor=7AA2F7&amp;fontAlignY=38&amp;desc=%E2%80%94%20Andrew%20Ng&amp;descAlignY=72&amp;descSize=19&amp;descColor=F7768E"
     width="95%"
-    alt="Quote by Demis Hassabis"
+    alt="Quote by Andrew Ng"
   />
 </p>
 
