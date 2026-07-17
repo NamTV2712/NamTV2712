@@ -104,20 +104,29 @@ Committed to continuous learning and building reliable AI solutions for real-wor
 
 ## 📊 GitHub Stats
 
-<!-- Public "github-readme-stats.vercel.app" is congested; using the community "fast" mirror
-     which returns fresh cards more reliably. For 100% guaranteed uptime, self-deploy your own
-     instance later and swap the domain below. -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="270"/>
-  <img src="https://streak-stats.demolab.com/?user=NamTV2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="270"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats-fast.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=NamTV2712&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=500" alt="Top Languages" height="270"/>
+  <img
+    width="50%"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+    alt="Top Languages"
+  />
 </p>
 
 ---
-
 ## 🏆 Trophies
 
 <!-- Public "github-profile-trophy.vercel.app" is congested; using an independent, dedicated
