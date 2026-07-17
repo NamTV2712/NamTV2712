@@ -108,14 +108,12 @@ Committed to continuous learning and building reliable AI solutions for real-wor
 <p align="center">
   <img
     align="top"
-    height="195"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=NamTV2712&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;rank_icon=percentile"
     alt="GitHub Stats"
   />
   &nbsp;
   <img
     align="top"
-    height="195"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NamTV2712&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=5"
     alt="Top Languages"
   />
