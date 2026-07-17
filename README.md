@@ -108,15 +108,15 @@ Committed to continuous learning and building reliable AI solutions for real-wor
 <p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=NamTV2712&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;rank_icon=percentile"
-    width="495"
-    height="195"
+    width="460"
+    height="180"
     align="top"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NamTV2712&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=5&amp;card_width=495"
-    width="495"
-    height="195"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NamTV2712&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=5&amp;card_width=460"
+    width="460"
+    height="180"
     align="top"
     alt="Top Languages"
   />
@@ -125,7 +125,7 @@ Committed to continuous learning and building reliable AI solutions for real-wor
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=NamTV2712&amp;theme=tokyonight&amp;hide_border=true"
-    width="600"
+    width="560"
     alt="GitHub Streak"
   />
 </p>
