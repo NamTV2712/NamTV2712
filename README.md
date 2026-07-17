@@ -40,15 +40,14 @@
 </p>
 
 ---
-
 ### 🧠 About Me
 
-<p align="center">
-AI student and hands-on builder pursuing a career in <strong>AI Engineering</strong> and <strong>Data Science</strong>.<br/>
-Focused on <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>NLP</strong>, with a growing specialization in <strong>Large Language Models</strong> and <strong>Retrieval-Augmented Generation</strong>.<br/>
-I develop practical projects and end-to-end AI pipelines covering data preparation, model development, evaluation, API integration, and deployment.<br/>
-Committed to continuous learning and building reliable AI solutions for real-world problems.
-</p>
+Artificial Intelligence student focused on designing and building practical AI systems.
+
+I work across **Machine Learning**, **Deep Learning**, and **Natural Language Processing**, with a growing focus on **Large Language Models**, **Retrieval-Augmented Generation**, and end-to-end AI pipelines.
+
+My projects involve the complete development lifecycle—from preparing data and training models to evaluation, API integration, and deployment. I am particularly interested in turning AI concepts into reliable applications that solve real-world problems.
+
 
 ---
 
