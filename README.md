@@ -102,29 +102,32 @@ Committed to continuous learning and building reliable AI solutions for real-wor
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=NamTV2712&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile"
+    height="165"
     alt="GitHub Stats"
-    width="49%"
   />
-
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=NamTV2712&amp;theme=tokyonight&amp;hide_border=true&amp;type=png"
-      alt="GitHub Streak"
-      width="49%"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NamTV2712&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=10"
-    alt="Top Languages"
-    width="55%"
+    src="https://streak-stats.demolab.com/?user=NamTV2712&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NamTV2712&theme=tokyonight&hide_border=true"
+    alt="GitHub Activity Graph"
   />
 </p>
 
