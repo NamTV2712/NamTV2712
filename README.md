@@ -124,13 +124,6 @@ Committed to continuous learning and building reliable AI solutions for real-wor
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NamTV2712&theme=tokyonight&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
 ---
 
 
