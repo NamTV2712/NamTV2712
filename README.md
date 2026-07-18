@@ -40,12 +40,17 @@
 </p>
 
 ---
-### 🧠 About Me
+<h3 align="center">🧠 About Me</h3>
 
-<p>
-I design and build practical AI systems using <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Natural Language Processing</strong>.<br/>
-My work focuses on <strong>Large Language Models</strong>, <strong>Retrieval-Augmented Generation</strong>, and end-to-end AI development.<br/>
-I value continuous learning, thoughtful engineering, and solutions that create real-world impact.
+<p align="center">
+  I design and build practical AI systems using
+  <strong>Machine Learning</strong>, <strong>Deep Learning</strong>,
+  and <strong>Natural Language Processing</strong>.<br/>
+  My work focuses on <strong>Large Language Models</strong>,
+  <strong>Retrieval-Augmented Generation</strong>,
+  and end-to-end AI development.<br/>
+  I value continuous learning, thoughtful engineering,
+  and solutions that create real-world impact.
 </p>
 
 ---
