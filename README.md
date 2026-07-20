@@ -167,7 +167,7 @@ I value continuous learning, thoughtful engineering, and solutions that create r
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&amp;height=160&amp;text=%E2%9D%9D%20AI%20is%20the%20new%20electricity.%20%E2%9D%9E&amp;fontSize=30&amp;fontColor=7AA2F7&amp;fontAlignY=38&amp;desc=%E2%80%94%20Andrew%20Ng&amp;descAlignY=72&amp;descSize=19&amp;descColor=F7768E"
+    src="https://capsule-render.vercel.app/api?type=transparent&amp;height=160&amp;text=%E2%9D%9D%20AI%20is%20the%20new%20electricity%20%E2%9D%9E&amp;fontSize=30&amp;fontColor=7AA2F7&amp;fontAlignY=38&amp;desc=%E2%80%94%20Andrew%20Ng&amp;descAlignY=72&amp;descSize=19&amp;descColor=F7768E"
     width="95%"
     alt="Quote by Andrew Ng"
   />
