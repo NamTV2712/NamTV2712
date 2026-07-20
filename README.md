@@ -43,9 +43,9 @@
 ### 🧠 About Me
 
 <p>
-I design and build practical AI systems using <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Natural Language Processing</strong>.<br/>
-My work focuses on <strong>Large Language Models</strong>, <strong>Retrieval-Augmented Generation</strong>, and end-to-end AI development.<br/>
-I value continuous learning, thoughtful engineering, and solutions that create real-world impact.
+I design and build practical AI and data-driven systems using <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Data Science</strong>.<br/>
+My work spans the full AI lifecycle, from <strong>data analysis</strong> and <strong>predictive modeling</strong> to <strong>Large Language Models</strong>, <strong>Retrieval-Augmented Generation</strong>, and deployment.<br/>
+I value continuous learning, thoughtful engineering, and building reliable solutions that create real-world impact.
 </p>
 
 ---
