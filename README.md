@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,100:7aa2f7&amp;height=200&amp;section=header&amp;text=Thai%20Viet%20Nam&amp;fontSize=48&amp;fontColor=c0caf5&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%26%20Data%20Scientist%20%7C%20Building%20Practical%20AI%20Systems&amp;descAlignY=58&amp;descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,100:7aa2f7&amp;height=200&amp;section=header&amp;text=Thai%20Viet%20Nam&amp;fontSize=48&amp;fontColor=c0caf5&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%26amp%3B%20Data%20Scientist%20%7C%20Building%20Practical%20AI%20Systems&amp;descAlignY=58&amp;descSize=18" width="100%" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
