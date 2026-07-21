@@ -41,12 +41,12 @@
 
 ---
 ### 🧠 About Me
-
 <p>
-I build practical AI and data-driven systems using <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Data Science</strong>.<br/>
-My work spans <strong>data analysis</strong>, <strong>predictive modeling</strong>, <strong>Large Language Models</strong>, <strong>Retrieval-Augmented Generation</strong>, and deployment.<br/>
-I value thoughtful engineering, continuous learning, and building reliable solutions with real-world impact.
+I build practical AI systems using <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Data Science</strong>.<br/>
+My work spans <strong>predictive modeling</strong>, <strong>Large Language Models</strong>, <strong>Retrieval-Augmented Generation</strong>, and end-to-end AI development.<br/>
+I focus on building reliable solutions that turn data and AI into real-world impact.
 </p>
+
 
 
 ---
