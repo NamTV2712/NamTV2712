@@ -71,7 +71,7 @@ I focus on building reliable solutions that turn data and AI into real-world imp
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NamTV2712&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NamTV2712&theme=github-compact&hide_border=true&area=true&custom_title=My%20Contribution%20Activity"
     alt="GitHub Contribution Activity"
     width="100%"
   />
