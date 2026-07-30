@@ -66,6 +66,14 @@ I focus on building reliable solutions that turn data and AI into real-world imp
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TQuang122&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 📈 Activity Graph
 
