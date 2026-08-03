@@ -168,7 +168,6 @@ I focus on building reliable solutions that turn data and AI into real-world imp
 
 
 
-### Quote
 
 <p align="center">
   <img
