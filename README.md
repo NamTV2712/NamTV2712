@@ -40,7 +40,7 @@
 </p>
 
 
-### 🧠 About Me
+### About Me
 <p>
 I build practical AI systems using <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Data Science</strong>.<br/>
 My work spans <strong>predictive modeling</strong>, <strong>Large Language Models</strong>, <strong>Retrieval-Augmented Generation</strong>, and end-to-end AI development.<br/>
@@ -51,7 +51,7 @@ I focus on building reliable solutions that turn data and AI into real-world imp
 
 
 
-## 💻 Tech Stack
+### Tech Stack
 
 <table>
   <tr>
@@ -121,7 +121,7 @@ I focus on building reliable solutions that turn data and AI into real-world imp
   </tr>
 </table>
 
-## 🏆 Trophies
+### Trophies
 
 <!-- Public "github-profile-trophy.vercel.app" is congested; using an independent, dedicated
      mirror (not on shared Vercel infra) for reliability. -->
@@ -139,7 +139,7 @@ I focus on building reliable solutions that turn data and AI into real-world imp
   <img src="https://streak-stats.demolab.com/?user=TQuang122&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 📈 Activity Graph
+### Activity Graph
 
 <p align="center">
   <img
@@ -166,7 +166,7 @@ I focus on building reliable solutions that turn data and AI into real-world imp
 
 <div align="center">
 
-### 💬 Quote
+### Quote
 
 <p align="center">
   <img
