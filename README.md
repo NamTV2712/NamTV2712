@@ -106,11 +106,12 @@ I focus on building reliable solutions that turn data and AI into real-world imp
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&amp;height=160&amp;text=%E2%9D%9D%20AI%20is%20the%20new%20electricity%20%E2%9D%9E&amp;fontSize=30&amp;fontColor=7AA2F7&amp;fontAlignY=38&amp;desc=%E2%80%94%20Andrew%20Ng&amp;descAlignY=72&amp;descSize=19&amp;descColor=F7768E"
+    src="https://capsule-render.vercel.app/api?type=transparent&amp;height=150&amp;text=%E2%80%9CThe%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.%E2%80%9D&amp;fontSize=27&amp;fontColor=7AA2F7&amp;fontAlignY=38&amp;desc=%E2%80%94%20Peter%20Drucker&amp;descAlignY=72&amp;descSize=18&amp;descColor=BB9AF7"
     width="95%"
-    alt="Quote by Andrew Ng"
+    alt="Quote by Peter Drucker"
   />
 </p>
+
 
 ---
 
