@@ -121,6 +121,8 @@ I focus on building reliable solutions that turn data and AI into real-world imp
   </tr>
 </table>
 
+
+
 ### Trophies
 
 <!-- Public "github-profile-trophy.vercel.app" is congested; using an independent, dedicated
@@ -164,7 +166,7 @@ I focus on building reliable solutions that turn data and AI into real-world imp
 
 
 
-<div align="center">
+
 
 ### Quote
 
