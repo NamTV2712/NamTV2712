@@ -61,7 +61,6 @@ I focus on building reliable solutions that turn data and AI into real-world imp
       <img src="https://img.shields.io/badge/R-7AA2F7?style=for-the-badge&logo=r&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQL-7AA2F7?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-7AA2F7?style=for-the-badge&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pydantic-7AA2F7?style=for-the-badge&logo=pydantic&logoColor=white"/>
       <img src="https://img.shields.io/badge/Streamlit-7AA2F7?style=for-the-badge&logo=streamlit&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gradio-7AA2F7?style=for-the-badge&logo=gradio&logoColor=white"/>
     </td>
