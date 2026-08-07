@@ -42,9 +42,7 @@
 
 ### About Me
 <p>
-I build practical AI systems using <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Data Science</strong>.<br/>
-My work spans <strong>predictive modeling</strong>, <strong>Large Language Models</strong>, <strong>Retrieval-Augmented Generation</strong>, and end-to-end AI development.<br/>
-I focus on building reliable solutions that turn data and AI into real-world impact.
+I build end-to-end AI systems that combine Machine Learning, Deep Learning, Large Language Models, and Data Science. My work focuses on predictive modeling, RAG, multimodal AI, and scalable AI applications that bridge research and real-world deployment.
 </p>
 
 
