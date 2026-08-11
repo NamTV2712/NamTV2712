@@ -122,20 +122,32 @@ I build end-to-end AI systems that combine Machine Learning, Deep Learning, Larg
 
 ### Trophies
 
-<!-- Public "github-profile-trophy.vercel.app" is congested; using an independent, dedicated
-     mirror (not on shared Vercel infra) for reliability. -->
 <p align="center">
-  <img src="https://github-trophies.devomb.com/?username=NamTV2712&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <img
+    src="https://github-trophies.devomb.com/?username=NamTV2712&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TQuang122&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile"
+    height="165"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=NamTV2712&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ### Activity Graph
