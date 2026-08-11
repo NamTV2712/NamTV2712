@@ -124,7 +124,7 @@ I build end-to-end AI systems that combine Machine Learning, Deep Learning, Larg
 
 <p align="center">
   <img
-    src="https://github-trophies.devomb.com/?username=NamTV2712&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"
+    src="https://trophy.ryglcloud.net/?username=NamTV2712&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"
     alt="GitHub Trophies"
   />
 </p>
