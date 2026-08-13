@@ -131,13 +131,13 @@ I build end-to-end AI systems that combine Machine Learning, Deep Learning, Larg
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile"
+    src="https://github-readme-stats-namtv2712.vercel.app/api?username=NamTV2712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile"
     height="165"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-namtv2712.vercel.app/api/top-langs/?username=NamTV2712&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
     alt="Top Languages"
   />
@@ -149,6 +149,7 @@ I build end-to-end AI systems that combine Machine Learning, Deep Learning, Larg
     alt="GitHub Streak"
   />
 </p>
+
 
 ### Activity Graph
 
