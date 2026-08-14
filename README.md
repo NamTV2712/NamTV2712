@@ -120,7 +120,7 @@ I build end-to-end AI systems that combine Machine Learning, Deep Learning, Larg
 
 
 
-
+### Statics
 
 <p align="center">
   <img
