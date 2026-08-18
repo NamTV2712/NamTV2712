@@ -141,9 +141,9 @@ I build end-to-end AI systems that combine Machine Learning, Deep Learning, Larg
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NamTV2712&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    alt="GitHub Contribution Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NamTV2712&theme=tokyo-night&hide_border=true"
     width="100%"
+    alt="GitHub Activity Graph"
   />
 </p>
 
