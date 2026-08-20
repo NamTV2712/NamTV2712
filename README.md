@@ -42,7 +42,7 @@
 
 ### About Me
 <p>
-I build end-to-end AI systems that combine Machine Learning, Deep Learning, Large Language Models, and Data Science. My work focuses on predictive modeling, RAG, multimodal AI, and scalable AI applications that bridge research and real-world deployment.
+I’m an AI Engineer & Data Scientist passionate about turning data and research into practical AI systems. I work across Machine Learning, Deep Learning, LLMs, RAG, Multimodal AI, and Data Science, building end-to-end solutions from data and modeling to intelligent applications and deployment.
 </p>
 
 
