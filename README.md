@@ -99,7 +99,6 @@ I’m an AI Engineer & Data Scientist passionate about turning data and research
       <img src="https://img.shields.io/badge/GitHub_Actions-9ECE6A?style=for-the-badge&logo=githubactions&logoColor=111827"/>
       <img src="https://img.shields.io/badge/Amazon_S3-9ECE6A?style=for-the-badge&logo=amazons3&logoColor=111827"/>
       <img src="https://img.shields.io/badge/Vercel-9ECE6A?style=for-the-badge&logo=vercel&logoColor=111827"/>
-      <img src="https://img.shields.io/badge/Linux-9ECE6A?style=for-the-badge&logo=linux&logoColor=111827"/>
     </td>
   </tr>
 
