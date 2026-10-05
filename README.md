@@ -113,6 +113,7 @@ I’m an AI Engineer & Data Scientist passionate about turning data and research
       <img src="https://img.shields.io/badge/Hugging_Face-F7768E?style=for-the-badge&logo=huggingface&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-F7768E?style=for-the-badge&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS_Code-F7768E?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-F7768E?style=for-the-badge&logo=linux&logoColor=white"/>
     </td>
   </tr>
 </table>
